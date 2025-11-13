@@ -10,4 +10,4 @@ This project deploys a YOLOv8 model trained on dental radiographs to detect mult
 ## Deployment
 This project is ready to deploy on **HuggingFace Spaces** using Gradio.
 
-Just upload the entire folder into a new HF Space with SDK = Gradio.
+https://huggingface.co/spaces/sheema216/dental-radiography-analysis
